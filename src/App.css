@@ -3,3 +3,13 @@
 .button_group {
 	padding-top: 2em;
 }
+body {
+	background-color: rgb(31, 29, 29) !important;
+}
+h1.Title {
+	padding: 160px 0 0 0;
+	color: white;
+}
+.t-w {
+	color: white;
+}
