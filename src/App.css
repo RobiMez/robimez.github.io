@@ -1,0 +1,5 @@
+@import '~antd/dist/antd.css';
+
+.button_group {
+	padding-top: 2em;
+}
