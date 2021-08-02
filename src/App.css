@@ -401,7 +401,7 @@ body, .body {
   }
   .card-img-top {
     height: 220px;
-    object-fit: cover;
+    object-fit: fill;
   }
   .card-wrapper {
     max-width: 33.333333%;

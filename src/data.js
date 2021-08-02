@@ -36,9 +36,17 @@ const projects = [
         title: 'Art_mod',
         description: 'An art moderation telegram bot using python telegram bot , hosted on heroku. ',
         stack: ['Python', 'telegram','bot'],
-        imgName: 'voidblu.png',
-        siteUrl: 'https://marketplace.visualstudio.com/items?itemName=Reuben.root-bear',
-        codeUrl: 'https://github.com/RobiMez/void_blue',
+        imgName: 'artmod.jpg',
+        siteUrl: 'https://t.me/art_mod_bot',
+        codeUrl: 'https://github.com/RobiMez/art-mod',
+    },
+    {
+        title: 'Cafe_qr',
+        description: 'An automation project for university cafe\'s using scan and dine QR badges',
+        stack: ['Python', 'IOT','Tkinter','GUI','Image recognition'],
+        imgName: 'developer.jpg',
+        siteUrl: '',
+        codeUrl: '',
     }
 ]
 
