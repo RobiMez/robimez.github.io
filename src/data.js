@@ -10,7 +10,7 @@ const resumePdfTitle = 'Resume.pdf'
 const projects = [
     {
         title: 'Comfi',
-        description: 'A from-scratch clone of a paid wordpress site in vanilla html css js with bootstrap.',
+        description: 'A " From-Scratch " clone of a paid wordpress site in vanilla HTML CSS JS with bootstrap.',
         stack: ['Bootstrap','HTML5', 'CSS3', 'JS'],
         imgName: 'comfi.jpg',
         siteUrl: 'https://boring-borg-a56a6e.netlify.app/',
@@ -18,7 +18,7 @@ const projects = [
     },
     {
         title: 'Anicons_py',
-        description: 'A command line tool for organizing and labling anime series with support for custom folder icons',
+        description: 'A Command line tool for organizing and labling anime series with support for custom folder icons.',
         stack: ['Python', 'CLI', 'PIL', 'API'],
         imgName: 'anicons.jpg',
         siteUrl: '',
@@ -28,6 +28,14 @@ const projects = [
         title: 'Void_blue',
         description: 'A Vs code dark theme , built with material design in mind ',
         stack: ['VS code', 'Material design',],
+        imgName: 'voidblu.png',
+        siteUrl: 'https://marketplace.visualstudio.com/items?itemName=Reuben.root-bear',
+        codeUrl: 'https://github.com/RobiMez/void_blue',
+    },
+    {
+        title: 'Art_mod',
+        description: 'An art moderation telegram bot using python telegram bot , hosted on heroku. ',
+        stack: ['Python', 'telegram','bot'],
         imgName: 'voidblu.png',
         siteUrl: 'https://marketplace.visualstudio.com/items?itemName=Reuben.root-bear',
         codeUrl: 'https://github.com/RobiMez/void_blue',

@@ -5,6 +5,7 @@
   /* --background-color-three: #0F0F0F; */
   --background-color-four: #343a40;
   --background-color-five: rgba(0, 0, 0, 0.8);
+  --background-color-transparent: transparent;
   --background-color-dark: #343a40;
   --text-color-one: white;
   --text-color-two: #afafaf;
@@ -219,7 +220,7 @@ body, .body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: var(--background-color-two);
+  background-color: var(--background-color-transparent);
   height: 30px;
   width: 30px;
   transition: opacity 0.3s;
@@ -239,7 +240,7 @@ body, .body {
     padding-bottom: 5px;
   }
   .background {
-    background: url('./assets/developer.jpeg');
+    background: url('./assets/developer.jpg');
   }
   .social-media-buttons-group {
     margin-top: 20px;
@@ -272,6 +273,22 @@ body, .body {
   max-width: 200px;
   margin: 5px 0;
   font-size: 15px;
+}
+.btn.btn-dark{
+  border: 1px solid #cfcfcf;
+  border-radius: 2px;
+  background-color: #141414!important;
+}
+.btn.btn-secondary{
+  border-radius: 2px;
+  background-color: #202020!important;
+}
+.btn.btn-dark:hover{
+  border: 1px solid #d2e4ff;
+  background-color: #2c2c2c!important;
+}
+.btn.btn-secondary:hover{
+  background-color: #333333!important;
 }
 
 /* footer */
