@@ -1,11 +1,11 @@
 const displayName = 'Robel mezemir'
-const bannerDescription = 'Developer from Addis'
+const bannerDescription = 'A Full-stack web and Python developer'
 const mediumUrl = '#'
 const mediumFilterKeyword = '#'
 const email = 'robelmezemir@gmail.com'
 const githubUrl = "https://github.com/robimez"
 const linkedInUrl = "https://www.linkedin.com/in/robel-mezemir-187b6b199/"
-const resumePdfTitle = 'Resume.pdf'
+const resumePdfTitle = 'resume.pdf'
 
 const projects = [
     {
@@ -26,7 +26,7 @@ const projects = [
     },
     {
         title: 'Void_blue',
-        description: 'A Vs code dark theme , built with material design in mind ',
+        description: 'A Vs code dark theme with over 1.9K downloads, built with material design in mind ',
         stack: ['VS code', 'Material design',],
         imgName: 'voidblu.png',
         siteUrl: 'https://marketplace.visualstudio.com/items?itemName=Reuben.root-bear',
