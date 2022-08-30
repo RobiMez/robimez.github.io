@@ -36,7 +36,7 @@ const projects = [
         title: 'Cafe_qr',
         description: 'An automation project for university cafe\'s using scan and dine QR badges',
         stack: ['Python', 'IOT','Tkinter','GUI','Image recognition'],
-        imgName: 'cqr.jpg',
+        imgName: 'cqr.png',
         siteUrl: '',
         codeUrl: '',
     }
