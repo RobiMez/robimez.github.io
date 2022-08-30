@@ -1,32 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.9233c320.chunk.css",
-    "main.js": "/static/js/main.b5776112.chunk.js",
-    "main.js.map": "/static/js/main.b5776112.chunk.js.map",
+    "main.css": "/static/css/main.444a2500.chunk.css",
+    "main.js": "/static/js/main.418e0a25.chunk.js",
+    "main.js.map": "/static/js/main.418e0a25.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fba70f41.js",
     "runtime-main.js.map": "/static/js/runtime-main.fba70f41.js.map",
-    "static/css/2.a6a2f6f7.chunk.css": "/static/css/2.a6a2f6f7.chunk.css",
-    "static/js/2.e38348ca.chunk.js": "/static/js/2.e38348ca.chunk.js",
-    "static/js/2.e38348ca.chunk.js.map": "/static/js/2.e38348ca.chunk.js.map",
+    "static/css/2.6f43df95.chunk.css": "/static/css/2.6f43df95.chunk.css",
+    "static/js/2.9022a736.chunk.js": "/static/js/2.9022a736.chunk.js",
+    "static/js/2.9022a736.chunk.js.map": "/static/js/2.9022a736.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fa2c259bdc6b6e59035cad62ba9d6108.js": "/precache-manifest.fa2c259bdc6b6e59035cad62ba9d6108.js",
+    "precache-manifest.6f367aa97e01ec925b6d26346ab960ae.js": "/precache-manifest.6f367aa97e01ec925b6d26346ab960ae.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.a6a2f6f7.chunk.css.map": "/static/css/2.a6a2f6f7.chunk.css.map",
-    "static/css/main.9233c320.chunk.css.map": "/static/css/main.9233c320.chunk.css.map",
-    "static/js/2.e38348ca.chunk.js.LICENSE.txt": "/static/js/2.e38348ca.chunk.js.LICENSE.txt",
+    "static/css/2.6f43df95.chunk.css.map": "/static/css/2.6f43df95.chunk.css.map",
+    "static/css/main.444a2500.chunk.css.map": "/static/css/main.444a2500.chunk.css.map",
+    "static/js/2.9022a736.chunk.js.LICENSE.txt": "/static/js/2.9022a736.chunk.js.LICENSE.txt",
     "static/media/anicons.jpg": "/static/media/anicons.51929709.jpg",
     "static/media/artmod.jpg": "/static/media/artmod.7a4037e3.jpg",
     "static/media/comfi.jpg": "/static/media/comfi.6af25ce5.jpg",
-    "static/media/cqr.png": "/static/media/cqr.c761a706.png",
     "static/media/developer.jpg": "/static/media/developer.59644d91.jpg",
     "static/media/developer.jpeg": "/static/media/developer.a756e011.jpeg",
     "static/media/voidblu.png": "/static/media/voidblu.fdf8723e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fba70f41.js",
-    "static/css/2.a6a2f6f7.chunk.css",
-    "static/js/2.e38348ca.chunk.js",
-    "static/css/main.9233c320.chunk.css",
-    "static/js/main.b5776112.chunk.js"
+    "static/css/2.6f43df95.chunk.css",
+    "static/js/2.9022a736.chunk.js",
+    "static/css/main.444a2500.chunk.css",
+    "static/js/main.418e0a25.chunk.js"
   ]
 }
