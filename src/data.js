@@ -39,6 +39,14 @@ const projects = [
         imgName: 'cqr.png',
         siteUrl: '',
         codeUrl: '',
+    },
+    {
+        title: 'BEU_deliveries_bot',
+        description: 'A Proof of concept python bot, submission for Beu deliveries telegram bot competition.',
+        stack: ['Python', 'Telegram_api',"Bot"],
+        imgName: 'developer.jpg',
+        siteUrl: '',
+        codeUrl: 'https://github.com/RobiMez/beud',
     }
 ]
 
