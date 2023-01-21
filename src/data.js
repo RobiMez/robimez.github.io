@@ -5,7 +5,7 @@ const mediumFilterKeyword = '#'
 const email = 'robelmezemir@gmail.com'
 const githubUrl = "https://github.com/robimez"
 const linkedInUrl = "https://www.linkedin.com/in/robimez/"
-const resumePdfTitle = 'resume.pdf'
+const resumePdfTitle = 'Resume.pdf'
 
 const projects = [
 
