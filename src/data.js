@@ -19,7 +19,7 @@ const projects = [
     },
     {
         title: 'Comfi',
-        description: 'A " From-Scratch " clone of a paid wordpress site in vanilla HTML CSS JS with bootstrap. a T=tribute to humble beginings.',
+        description: 'A " From-Scratch " clone of a paid wordpress site in vanilla HTML CSS JS with bootstrap. a Tribute to humble beginings.',
         stack: ['Bootstrap', 'HTML5', 'CSS3', 'JS'],
         imgName: 'comfi.jpg',
         siteUrl: 'https://boring-borg-a56a6e.netlify.app/',
