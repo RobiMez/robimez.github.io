@@ -8,6 +8,15 @@ const linkedInUrl = "https://www.linkedin.com/in/robel-mezemir-187b6b199/"
 const resumePdfTitle = 'resume.pdf'
 
 const projects = [
+    
+    {
+        title: 'Mce-SMS-UI',
+        description: 'A Fullstack application built as a wrapper to a messaging api .',
+        stack: ['Svelte', 'Prisma',"NodeJs","TS"],
+        imgName: 'developer.jpg',
+        siteUrl: '',
+        codeUrl: '',
+    },
     {
         title: 'Comfi',
         description: 'A " From-Scratch " clone of a paid wordpress site in vanilla HTML CSS JS with bootstrap.',
@@ -26,7 +35,7 @@ const projects = [
     },
     {
         title: 'Void_blue',
-        description: 'A Vs code dark theme with over 1.9K downloads, built with material design in mind ',
+        description: 'A Vs code dark theme with over 2.5K downloads, built with material design in mind ',
         stack: ['VS code', 'Material design',],
         imgName: 'voidblu.png',
         siteUrl: 'https://marketplace.visualstudio.com/items?itemName=Reuben.root-bear',
@@ -47,6 +56,14 @@ const projects = [
         imgName: 'developer.jpg',
         siteUrl: '',
         codeUrl: 'https://github.com/RobiMez/beud',
+    },
+    {
+        title: 'YeneFellowBot',
+        description: 'A Councelling and guidance bot for local church youth.',
+        stack: ['Python', 'Telegram_api',"Bot"],
+        imgName: 'developer.jpg',
+        siteUrl: 'https://t.me/YeneCounselingBot',
+        codeUrl: '',
     }
 ]
 
