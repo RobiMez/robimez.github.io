@@ -10,6 +10,14 @@ const resumePdfTitle = 'Resume.pdf'
 const projects = [
 
     {
+        title: 'Tobiya Poetic jazz.',
+        description: 'A static site rework for Tobiya poetic jazz',
+        stack: ['Svelte', 'Tailwind', "Figma", "Frontend Work","Vercel"],
+        imgName: 'tobiya.png',
+        siteUrl: 'tobiyapoeticjazz.com',
+        codeUrl: '',
+    },
+    {
         title: 'Mce-SMS-UI',
         description: 'A Fullstack Web application built as a wrapper to a messaging api. Implements User management, Sessions, Data analysis, and even Websockets.',
         stack: ['Svelte', 'Prisma', "NodeJs", "TS"],
