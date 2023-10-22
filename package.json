@@ -15,7 +15,7 @@
 		"react-scripts": "^5.0.1",
 		"react-scroll": "^1.8.1",
 		"react-tooltip": "^4.2.8",
-		"rss-parser": "^3.9.0"
+		"rss-parser": "^3.13.0"
 	},
 	"scripts": {
 		"start": "react-scripts start",
