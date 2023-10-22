@@ -10,9 +10,25 @@ const resumePdfTitle = 'Resume.pdf'
 const projects = [
 
     {
+        title: 'Second story.',
+        description: 'Work in progress',
+        stack: ['SvelteKit', 'Svelte', 'Tailwind',],
+        imgName: 'developer.jpg',
+        siteUrl: '',
+        codeUrl: '',
+    },
+    {
+        title: 'Csa scrape.',
+        description: 'Csa page scrape , an automated python script that simulates a browser and scrapes articles from csa iot , 430 pages scraped with 12 subpages each, expanded upon by 72k links',
+        stack: ['Selenium', 'python'],
+        imgName: 'scrape.png',
+        siteUrl: '',
+        codeUrl: '',
+    },
+    {
         title: 'Tobiya Poetic jazz.',
         description: 'A static site rework for Tobiya poetic jazz',
-        stack: ['Svelte', 'Tailwind', "Figma", "Frontend Work","Vercel"],
+        stack: ['Svelte', 'Tailwind', "Figma", "Frontend Work", "Vercel"],
         imgName: 'tobiya.png',
         siteUrl: 'tobiyapoeticjazz.com',
         codeUrl: '',
@@ -44,7 +60,7 @@ const projects = [
     {
         title: 'Void_blue',
         description: 'A Vs code dark theme with over 2.5K downloads, built with material design in mind ',
-        stack: ['VS code', 'Material design','Color theory'],
+        stack: ['VS code', 'Material design', 'Color theory'],
         imgName: 'voidblu.png',
         siteUrl: 'https://marketplace.visualstudio.com/items?itemName=Reuben.root-bear',
         codeUrl: 'https://github.com/RobiMez/void_blue',
@@ -75,8 +91,8 @@ const projects = [
     },
     {
         title: 'Emvc Bot',
-        description: '[Discontinued] An  Art moderation bot for Emvc : Arts, a local 3D designers community , Accepts images , videos , documents and even albums .',
-        stack: ['Python', 'Telegram_api', "Bot" , "Client didn't pay"],
+        description: 'An  Art moderation bot for Emvc : Arts, a local 3D designers community , Accepts images , videos , documents and even albums .',
+        stack: ['Python', 'Telegram_api', "Bot"],
         imgName: 'emvc.png',
         siteUrl: 'https://t.me/Emvc_mod_bot',
         codeUrl: '',
